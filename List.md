@@ -27,6 +27,7 @@ Create a combination of numbers, where each number represents the skills used in
 
 eg.
 014 - The map uses walljumps, wallruns, and momentum sliding.
+
 --
 1. ``7.59`` **The Sin** by S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs [fayvr] [https://www.youtube.com/watch?v=TYPNKpdwha4]
 
