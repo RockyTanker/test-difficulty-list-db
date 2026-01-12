@@ -14,7 +14,7 @@ user1, user2, user3
 
 **OTHER INFO** --> Skills*** | Awards* | Medal** | Soundwave Approved** | Aquarii Approved** | Ethar67 Approved**
 
-**VICTORS** --> Victors (separated by commas)
+**VICTORS** --> Victors (usernames separated by commas)
 
 ```
 *(0: None, 1: Featured, 2: Revolutionary)
