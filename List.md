@@ -36,7 +36,7 @@ eg.
 
 ## List
 
-**// 7.59 | The Sin | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=TYPNKpdwha4**
+// 7.59 | The Sin | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=TYPNKpdwha4
 
 0135 | 2 | Yes | Yes | Yes
 
@@ -44,7 +44,7 @@ user1, user2, user3
 
 ---
 
-**// 7.59 | The Sin | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=TYPNKpdwha4**
+// 7.59 | The Sin | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=TYPNKpdwha4
 
 0135 | 2 | Yes | Yes | Yes
 
