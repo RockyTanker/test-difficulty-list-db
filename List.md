@@ -48,9 +48,9 @@ user1, user2, user3
 
 ### #2
 
-// 7.59 | The Sin | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=TYPNKpdwha4
+// 6.59 | Hi | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=QDcnJeGoRWU
 
-0135 | 2 | Yes | Yes | Yes
+0135 | 2 | Yes | Yes | No
 
 user1, user2, user3
 
@@ -58,7 +58,7 @@ user1, user2, user3
 
 ### #3
 
-// 7.59 | The Sin | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=TYPNKpdwha4
+// 5.52 | The Sin | S_D1am0nd, alex28901, fxrezful, vX_Soraa, & Vlayrs | fayvr | https://www.youtube.com/watch?v=TYPNKpdwha4
 
 0135 | 2 | Yes | Yes | Yes
 
